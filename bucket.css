@@ -1,0 +1,9 @@
+#bucket{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+   
+}
+#checkout_button{
+    margin-top: 10px;
+}

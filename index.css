@@ -1,0 +1,22 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+
+#navbar2{
+    display:flex;
+    justify-content: space-around;
+    
+
+}
+#navbar2>div{
+    margin-left:10px
+}
+#menu{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    
+    
+}
